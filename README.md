@@ -4,12 +4,12 @@ A beginner-friendly command-line calculator built with Python.
 
 ## Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
-* 🚫 Prevents division by zero
-* ✅ Handles invalid menu choices
+*  Addition
+*  Subtraction
+*  Multiplication
+*  Division
+*  Prevents division by zero
+*  Handles invalid menu choices
 
 
 -## How to Run
